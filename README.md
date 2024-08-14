@@ -7,7 +7,7 @@ então usufruindo de recursos CSS3 desenvolvi um projeto resnponsivo para todas 
 
 ## Preview:
 <div align="center" style="display: inline">
-  <img width="750px" src="https://github.com/user-attachments/assets/7692324a-c7c6-4822-ae83-6fa0e6c486aa"/>
+  <img width="70%" src="https://github.com/user-attachments/assets/7692324a-c7c6-4822-ae83-6fa0e6c486aa"/>
   <img height="350px" src="https://github.com/user-attachments/assets/860b0652-f26c-4919-91aa-01bcf7e575f3"/>
 </div>
 
